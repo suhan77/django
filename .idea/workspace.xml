@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d80a4f5f-ffdc-4985-b011-45cd58add6d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +56,37 @@
       <option name="presentableId" value="Default" />
       <updated>1575562815674</updated>
     </task>
+    <task id="LOCAL-00001" summary="make html file">
+      <created>1575564388597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575564388597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="make html file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2" timestamp="1575564388346">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1575564388346" />
+    <state x="697" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1575785645644">
+      <screen x="70" y="27" width="1850" height="997" />
+    </state>
+    <state x="2251" y="381" key="com.intellij.ide.util.TipDialog/1600.0.1920.1080/0.184.1600.900@1600.0.1920.1080" timestamp="1575696580605" />
+    <state x="697" y="379" key="com.intellij.ide.util.TipDialog/70.27.1850.997@70.27.1850.997" timestamp="1575785645644" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575564538812">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1575564538812" />
+    <state x="2258" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1575696611153">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2258" y="259" width="672" height="678" key="search.everywhere.popup/1600.0.1920.1080/0.184.1600.900@1600.0.1920.1080" timestamp="1575696611153" />
   </component>
 </project>
